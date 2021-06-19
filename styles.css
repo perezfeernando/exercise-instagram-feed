@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background: grey;
+}
+
+/* HEADER */
+header{
+    background: white;
+}
+h1{
+    
+    margin: 0;
+    width: 500px;
+    margin: auto;
+}
+
+/* POST */
+.post{
+    background: white;
+}
+.contenedor-feed{
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+}
+img{
+    width: 100%;
+    height: 628px;
+    object-fit: cover;
+}
+.contenedor-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h2, p{
+    padding: 5px;
+}
