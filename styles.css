@@ -38,5 +38,9 @@ img{
     align-items: center;
 }
 h2, p{
-    padding: 5px;
+    padding: 10px;
+}
+span{
+    padding: 10px;
+    color: gray;
 }
